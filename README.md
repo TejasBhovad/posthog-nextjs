@@ -18,4 +18,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-> You can read the full tutorial [here]()
+> You can read the full tutorial [here](https://dev.to/tejasbhovad/integrating-posthog-with-nextjs-1dgh)
